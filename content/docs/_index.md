@@ -28,4 +28,11 @@ Sou daqueles caras chatos que gosta de olhar com os próprios olhos a informaç�
 gosto de checar, ir na fonte, e duvidar daquilo que me é falado. Não foi muito
 diferente de quando eu ouvi que era uma "bolha".
 
-Mergulhei de ponta nesse universo, estudei muito cada detalhe
+Mergulhei de ponta nesse universo, estudei muito cada detalhe, e, nossa, quanta
+coisa existe além de só o suposto lucro. Na verdade, o lucro é só uma
+consequência de tudo isso que acontece por "baixo dos panos".
+
+Convido você a mergulhar junto comigo nesse mundinho, entender um pouco sobre
+esse "baixo dos panos", entender um pouco o que é, como funciona, e, pelo menos
+não ficar boiando nas histórias quando o assunto é esse.
+

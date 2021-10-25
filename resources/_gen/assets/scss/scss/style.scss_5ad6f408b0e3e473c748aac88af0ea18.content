@@ -7673,7 +7673,7 @@ p {
   .content a {
     text-decoration: underline; }
   .content p {
-    font-family: "Roboto", Arial, sans-serif, -apple-system;
+    font-family: "Lora", Arial, sans-serif, -apple-system;
     font-size: 1rem;
     line-height: 1.4;
     color: #383f45;
