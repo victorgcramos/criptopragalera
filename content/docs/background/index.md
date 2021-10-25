@@ -2,6 +2,7 @@
 title: 'Motivação'
 date: 2021-10-24T23:08:00+03:00
 weight: 2
+draft: true
 ---
 
 Antes de mergulhar um pouco nesse mundo, convido vocês a escutarem um pouco uma
@@ -187,7 +188,6 @@ parafusos gastando o mínimo de recursos. À grosso modo, significa obter mais
 valor de um trabalho do que esse trabalho realmente vale. Mais vale o produzido
 do que vale o trabalho. Mais vale. Mais valeu. Mais valia. *Mais-valia?*...
 Eita, já ouvi isso em algum lugar...
+ 
 
-
-
-
+> Ainda em progresso. Aguarde :D
